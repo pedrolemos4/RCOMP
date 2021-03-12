@@ -4,23 +4,17 @@ RCOMP 2019-2020 Project - Sprint 1 planning
 
 # 1. Sprint's backlog #
 
-T.1.1 Development of a structured cabling project for building 1,
+* T.1.1 Development of a structured cabling project for building 1,
 and also encompassing the campus backbone.
-T.1.2 Development of a structured cabling project for building 2.
-T.1.3 Development of a structured cabling project for building 3.
-T.1.4 Development of a structured cabling project for building 4.
+* T.1.2 Development of a structured cabling project for building 2.
+* T.1.3 Development of a structured cabling project for building 3.
+* T.1.4 Development of a structured cabling project for building 4.
 
 # 2. Technical decisions and coordination #
-In this section, all technical decisions taken in the planning meeting should be mentioned. 		Most importantly, all technical decisions impacting on the subtasks implementation must be settled on this 		meeting and specified here.
 
-#### Examples: ####
-  * Backbone cable types to be used
-  * VLAN IDs to be used
-  * VTP domains
-  * WiFi channels
-  * IPv4 networks' addresses and routers' addresses
-  * Routing protocols
-  * Application protocols outlining (further coordination may be required between members)
+#### Technical Decisions: ####
+  * The backbone cables used will be optical fibres because even if the optical fibre is not imposed due to the cable length, it should always be enforced. Optical fibre grants higher bandwidth and better compatibility with future layer two technologies.
+  * The cable types we will be using are 568A
 # 3. Subtasks assignment #
 
 #### Tasks assigned: ####
