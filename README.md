@@ -1,29 +1,15 @@
-# README #
+RCOMP 2020-2021 Project repository
+===========================================
+# 1. Team members #
+  * 1190429 - Beatriz Vaz 
+  * 1190769 - José Oliveira 
+  * 1190974 - Pedro Lemos 
+  * 1191098 - Tiago Pinto  
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Any team membership changes should be reported here:
 
-### What is this repository for? ###
+# 2. Sprints #
+  * [Sprint 1](doc/sprint1/)
+  * [Sprint 2](doc/sprint2/)
+  * [Sprint 3](doc/sprint3/)
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
