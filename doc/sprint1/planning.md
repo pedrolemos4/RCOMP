@@ -19,6 +19,34 @@ and also encompassing the campus backbone.
 
 #### Tasks assigned: ####
   * 1190429 - Structured cable design for building 1, floors 0 and 1
+    - Demonstration of calculations regarding the number of network outlets for each room.
+    - Network outlets deployment schematic plan (including outlets for wireless access points)
+      and justification comments.
+    - Cross-connects deployment schematic plan and justification comments.
+    - Cable pathways deployment schematic plan and justification comments.
+    - Hardware inventories, including: total cable lengths by cable type, appropriate type patch
+      panels, network outlets, telecommunication enclosures of suitable size.
   * 1190974 - Structured cable design for building 2, floors 0 and 1
+      - Demonstration of calculations regarding the number of network outlets for each room.
+      - Network outlets deployment schematic plan (including outlets for wireless access points)
+        and justification comments.
+      - Cross-connects deployment schematic plan and justification comments.
+      - Cable pathways deployment schematic plan and justification comments.
+      - Hardware inventories, including: total cable lengths by cable type, appropriate type patch
+        panels, network outlets, telecommunication enclosures of suitable size.
   * 1191098 - Structured cable design for building 3, floors 0 and 1
+      - Demonstration of calculations regarding the number of network outlets for each room.
+      - Network outlets deployment schematic plan (including outlets for wireless access points)
+        and justification comments.
+      - Cross-connects deployment schematic plan and justification comments.
+      - Cable pathways deployment schematic plan and justification comments.
+      - Hardware inventories, including: total cable lengths by cable type, appropriate type patch
+        panels, network outlets, telecommunication enclosures of suitable size.
   * 1190769 - Structured cable design for building 4, floors 0 and 1
+    - Demonstration of calculations regarding the number of network outlets for each room.
+    - Network outlets deployment schematic plan (including outlets for wireless access points)
+      and justification comments.
+    - Cross-connects deployment schematic plan and justification comments.
+    - Cable pathways deployment schematic plan and justification comments.
+    - Hardware inventories, including: total cable lengths by cable type, appropriate type patch
+      panels, network outlets, telecommunication enclosures of suitable size.

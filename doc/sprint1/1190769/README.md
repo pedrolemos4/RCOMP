@@ -1,6 +1,6 @@
-RCOMP 2019-2020 Project - Sprint 1 - Member 2222222 folder
+RCOMP 2020-2021 Project - Sprint 1 - Member 1190769 folder
 ===========================================
-(This folder is to be created/edited by the team member 2222222 only)
+(This folder is to be created/edited by the team member 1190769 only)
 
 #### This is just an example for a team member with number 2222222 ####
 ### Each member should create a folder similar to this, matching his/her number. ###
