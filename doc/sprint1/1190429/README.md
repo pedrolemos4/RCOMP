@@ -56,7 +56,9 @@ Para além do HC, foi instalado um CP devido ao número elevado de outlets, com 
 
 Na sala 10.3 tal como referia no enunciado foram colocados 5 outlets na mesa que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 
-Para além dos outlets, como podemos observar na imagem acima representada foi instalado um AP no centro deste piso para que exista cobertura WiFi em toda a sua área. Para 
+Para além dos outlets, como podemos observar na imagem acima representada foi instalado um AP no centro deste piso para que exista cobertura WiFi em toda a sua área. 
+Para perceber o número de AP a colocar no piso, usamos um raio 25 metros. 
+Como este piso tem as dimensões 40 x 20 metros, um AP por piso chega para assegurar a cobertura WiFi na área do piso.
 
 #### Inventário ####
 * 1 HC
@@ -114,7 +116,9 @@ Na sala 11.4 como tem 131,486 m², serão necessários 26 outlets que foram dist
 Foi instalado neste espaço um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 48 portas e um switch de 48 portas.
 
 
-No centro deste piso foi colocado também um AP de forma a garantir a cobertura de WiFi em toda a sua área.
+No centro deste piso foi colocado também um AP de forma a garantir a cobertura de WiFi em toda a sua área. 
+Para perceber o número de AP a colocar no piso, usamos um raio 25 metros. 
+Como este piso tem as dimensões 40 x 20 metros, um AP por piso chega para assegurar a cobertura WiFi na área do piso.
 
 #### Inventário ####
 * 1 MC
@@ -137,4 +141,4 @@ No centro deste piso foi colocado também um AP de forma a garantir a cobertura 
 
 Nota: Toda a cablagem de fibra ótica refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos.
 
-Os cabos de cobre usados são CAT6A.
+Os cabos de cobre usados são CAT6A, visto que cobrem sinais de frequência até 500MHz, são capazes de transmitir sinais até 10Gbps. O cabo CAT6A é usado para suportar taxas de dados em 100 metros.
