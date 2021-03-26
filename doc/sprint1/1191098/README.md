@@ -6,7 +6,7 @@ RCOMP 2020-2021 Project - Sprint 1 - Member 1191098 folder
 The owner of this folder (member number 1191098) will commit here all the outcomes (results/artifacts/products)		       of his/her work during sprint 1. This may encompass any kind of standard file types.
 
 # Piso 0 #
-![Piso0](Piso0.png)
+![Piso0](Piso0.PNG)
 
 #### Medidas ####
 
@@ -20,7 +20,7 @@ The owner of this folder (member number 1191098) will commit here all the outcom
 | Open Area | 10,10 | 5 | 56,111 | 27,778 | 1558,483 | 312 |
 
 # Piso 1 #
-![Piso1](Piso1.png)
+![Piso1](Piso1.PNG)
 
 #### Medidas ####
 
