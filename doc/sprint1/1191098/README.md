@@ -1,4 +1,4 @@
-RCOMP 2020-2021 Project - Sprint 1 - Member 1190974 folder
+RCOMP 2020-2021 Project - Sprint 1 - Member 1191098 folder
 ===========================================
 
 #### This is just an example for a team member with number 1191098 ####
@@ -6,7 +6,7 @@ RCOMP 2020-2021 Project - Sprint 1 - Member 1190974 folder
 The owner of this folder (member number 1191098) will commit here all the outcomes (results/artifacts/products)		       of his/her work during sprint 1. This may encompass any kind of standard file types.
 
 # Piso 0 #
-![piso0.png](piso0.png)
+![Piso0.png](Piso0.png)
 
 #### Medidas ####
 
@@ -20,7 +20,7 @@ The owner of this folder (member number 1191098) will commit here all the outcom
 | Open Area | 10,10 | 5 | 56,111 | 27,778 | 1558,483 | 312 |
 
 # Piso 1 #
-![piso1.png](piso1.png)
+![Piso1.png](Piso1.png)
 
 #### Medidas ####
 
