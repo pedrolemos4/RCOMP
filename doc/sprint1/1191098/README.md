@@ -56,7 +56,7 @@ Para além dos outlets, como podemos observar na imagem acima representada foram
 * 7004,26 metros de cabo de cobre CAT6A
 * 10 cabos de fibra
 * 393,94 metros de cabos de fibra
-* 368 Patch Cords de 3 metros
+* 368 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 # Piso 1 #
 ![Piso1](Piso1.PNG)
@@ -108,4 +108,4 @@ Para além dos outlets, como podemos observar na imagem acima representada foram
 * 566,65 metros de cabo de cobre CAT6A
 * 5 cabos de fibra
 * 94 metros de fibra
-    
+* 68 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
