@@ -15,7 +15,7 @@ De forma a ser possível alcançar a redundância de cabos foram estabelecidas a
 * Edifício 1 para 5, onde o total de cabo corresponde a 266,92 metros.
 * Edifício 2 para 5, onde o total de cabo corresponde a 230,00 metros.
 * Edifício 4 para 5, onde o total de cabo corresponde a 167,69 metros.
-* Edifício 1 para 5, onde o total de cabo corresponde a 193,08 metros.
+* Edifício 3 para 4, onde o total de cabo corresponde a 193,08 metros.
 
 Ligação do exterior para o edifício 1 tem aproximadamente 83,08 metros, logo no total, o backbone do campus tem cerca de 1520,00 metros. 
 
@@ -23,7 +23,7 @@ As ligações anteriormente referidas são de fibra ótica monomodo, uma vez que
 
 Todas as medições tiveram em conta a escala representada na imagem. Consideramos que 20 metros correspondem a 1,30 centímetros.
 
-**Nota**: linha representada a azul diz respeito à cablagem dupla de fibra ótica.
+**Nota**: linha representada a azul diz respeito à cablagem dupla de fibra ótica monomodo.
 
 
 # Piso 0 #
@@ -64,7 +64,7 @@ Como este piso tem as dimensões 40 x 20 metros, um AP por piso chega para asseg
 
 CP para Outlets: 717,66 metros.
 
-HP para AP: 31,98 metros.
+HC para AP: 31,98 metros.
 
 HC para CP: 22,45 metros.
 
@@ -87,8 +87,10 @@ Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no invent�
     * 1 Switch de 48 portas
 * 1 AP
 * 47 Outlets
-* 717,66 metros de cabo CAT6A
+* 717,66 metros de cabo de cobre CAT6A
+* 47 cabos de cobre CAT6A  
 * 170,74 metros de fibra ótica monomodo
+* 8 cabos de fibra ótica monomodo
 * 47 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 # Piso 1 #
@@ -171,29 +173,33 @@ Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no invent�
     * 3 Switch de 24 portas
 * 1 AP
 * 52 Outlets
-* 384,48 metros de cabo CAT6A
+* 384,48 metros de cabo de cobre CAT6A
+* 52 cabos de cobre CAT6A  
 * 410,60 metros de fibra ótica monomodo
+* 10 cabos de fibra ótica monomodo
 * 52 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 #### Inventário Total do Edifício 1####
 * 1 MC
-  * 1 Patch Panel de 12 portas
-  * 1 Switch de 12 portas
+    * 1 Patch Panel de 12 portas
+    * 1 Switch de 12 portas
 * 1 IC
-  * 1 Patch Panel de 8 portas
-  * 1 Switch de 8 portas  
+    * 1 Patch Panel de 8 portas
+    * 1 Switch de 8 portas  
 * 2 HC
-  * 2 Patch Panel de 12 portas
-  * 2 Switch de 12 portas
+    * 2 Patch Panel de 12 portas
+    * 2 Switch de 12 portas
 * 5 CP
-  * 4 Patch Panel de 24 portas
-  * 4 Switch de 24 portas
-  * 1 Patch Panel de 48 portas
-  * 1 Switch de 48 portas
+    * 4 Patch Panel de 24 portas
+    * 4 Switch de 24 portas
+    * 1 Patch Panel de 48 portas
+    * 1 Switch de 48 portas
 * 2 AP
 * 99 Outlets
-* 11022,14 metros de cabo CAT6A
+* 11022,14 metros de cabo de cobre CAT6A
+* 99 cabos de cobre CAT6A
 * 581,34 metros de fibra ótica monomodo
+* 18 cabos de fibra ótica monomodo  
 * 99 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 
