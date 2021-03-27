@@ -1,10 +1,6 @@
 RCOMP 2020-2021 Project - Sprint 1 - Member 1190974 folder
 ===========================================
 
-#### This is just an example for a team member with number 3333333 ####
-### Each member should create a folder similar to this, matching his/her number. ###
-The owner of this folder (member number 3333333) will commit here all the outcomes (results/artifacts/products)		       of his/her work during sprint 1. This may encompass any kind of standard file types.
-
 # Piso 0 #
 ![Floor0.PNG](Floor0.PNG)
 
@@ -40,26 +36,26 @@ Na sala 20.1 como é uma área de armazenamento é uma zona ideal para colocar o
 
 Esta sala é também a TE, onde os equipamentos não ultrapassam os 50% do espaço de armazenamento providenciando espaço para melhorias no futuro.
 
-O IC possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+O IC possui um formato de rack de 19'', um patch panel de 12 e um switch de 12.
 
-O HC possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+O HC possui um formato de rack de 19'', um patch panel de 8 e um switch de 8.
 
 
-Na sala 20.2 como tem 94,250 m², serão necessários 20 outlets e um CP devido ao elevado número de outlets.
+Na sala 20.2 como tem 94,250 m², serão necessários 20 outlets e um CP devido ao elevado número de outlets que está conectado aos outlets desta sala e da service desk.
 
-O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+O CP possui um formato de rack de 19'', um patch panel de 48 e um switch de 48.
 
 
 Na sala 20.3 como tem 130,625 m², serão necessários 28 outlets e está colocado também o 2º e último HC do piso conectado ao CP presente também nesta sala conectado aos outlets desta sala.
 
-O HC possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um siwtch de AAAAAA.
+O HC possui um formato de rack de 19'', um patch panel de 8 e um switch de 8.
 
-O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um siwtch de AAAAAA.
+O CP possui um formato de rack de 19'' , um patch panel de 48 e um switch de 48.
 
 
 Na sala 20.4 como tem 161,500 m², serão necessários 34 outlets e um CP devido ao elevado número de outlets.
 
-O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um siwtch de AAAAAA.
+O CP possui um formato de rack de 19'', um patch panel de 48 e um switch de 48.
 
 
 #### Inventário ####
@@ -73,20 +69,22 @@ O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um siwtc
   Quantidade: 20 cabos.
 
 * IC: 1.
-    * 1 Patch Panel de AAAA portas
-    * 1 Switch de AAAA portas
+    * 1 Patch Panel de 12 portas
+    * 1 Switch de 12 portas
 
 * HC: 2.
-    * 1 Patch Panel de AAAA portas
-    * 1 Switch de AAAA portas
+    * 2 Patch Panel de 8 portas
+    * 2 Switch de 8 portas
 
 * CP: 3.
-    * 1 Patch Panel de AAAA portas
-    * 1 Switch de AAAA portas
+    * 3 Patch Panel de 48 portas
+    * 3 Switch de 48 portas
 
 * AP: 2.
 
 * Outlets: 86.
+
+* 86 Patch Cords ISO8877 connectors (RJ45) cada um com 3 m.
 
 
 # Piso 1 #
@@ -130,9 +128,9 @@ Na sala 21.1 como tem 22 m² de área, serão necessários 6 outlets.
 Na sala 21.2 como tem 37,125 m² de área, serão necessários 8 outlets e um CP para conectar os outlets das salas 21.3, 21.4 e 21.5.
 Como é nesta sala está colocada a passagem dos cabos a partir do piso 0 está colocado um HC no teto falso dessa sala, que está conectado aos outlets da sala 21.1 por CAT6A.
 
-O HC possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+O HC possui um formato de rack de 19'', 2 patch panel de 12 e 2 switch de 12.
 
-O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+O CP possui um formato de rack de 19'', um patch panel de 48 e um switch de 48.
 
 
 Na sala 21.3 como tem 41,250 m² de área, serão necessários 10 outlets.
@@ -143,19 +141,19 @@ Na sala 21.5 como tem 41,250 m² de área, serão necessários 10 outlets.
 
 Na sala 21.6 como tem 47,500 m² de área, serão necessários 10 outlets.
 
-Na sala 21.7 como tem 47,500 m² de área, serão necessários 10 outlets.
-Possui também um CP, que está conectado ao 2º HC do piso colocado entre a sala 21.6 e 21.7, e que conecta os outlets das salas 21.6, 21.7, 21.8 devido ao elevado somatório de outlets existentes nas salas.
+Na sala 21.7 como tem 47,500 m² de área, serão necessários 10 outlets, possui um HC conectado ao CP presente entre a sala 21.6 e 21.7 
+que conecta os outlets das salas 21.6, 21.7, 21.8 devido ao elevado somatório de outlets existentes nas salas.
 
-O HC possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+O HC possui um formato de rack de 19'', um patch panel de 24 e um switch de 24.
 
-O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+O CP possui um formato de rack de 19'', um patch panel de 48 e um switch de 48.
 
 
 Na sala 21.8 como tem 47,500 m² de área, serão necessários 10 outlets.
 
 Na sala 21.9 como tem 84,375 m² de área, serão necessários 18 outlets e um CP que está conectado também aos outlets das salas 21.10 e 21.11 devido ao elevado somatório de outlets existentes nas salas.
 
-O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+O CP possui um formato de rack de 19'', um patch panel de 48 e um switch de 48.
 
 
 Na sala 21.10 como tem 56,250 m² de área, serão necessários 12 outlets.
@@ -174,15 +172,54 @@ Na sala 21.11 como tem 56,250 m² de área, serão necessários 12 outlets.
   Quantidade: 14 cabos.
 
 * HC: 2.
-    * 1 Patch Panel de AAAA portas
-    * 1 Switch de AAAA portas
+    * 1 Patch Panel de 24 portas
+    * 1 Switch de 24 portas
+    * 2 Patch Panel de 12 portas
+    * 2 Switch de 12 portas
 
 * CP: 3.
-    * 1 Patch Panel de AAAA portas
-    * 1 Switch de AAAA portas
+    * 3 Patch Panel de 48 portas
+    * 3 Switch de 48 portas
 
 * AP: 2.
 
 * Outlets: 116.
+
+* 116 Patch Cords ISO8877 connectors (RJ45) cada um com 3 m.
+
+
+
+#### Inventário Total Edifício B ####
+
+* CAT6A: 
+  Comprimento: 2829,552 m.
+  Quantidade: 202 cabos.
+
+* Fibra 
+  Comprimento: 1000,378 m.
+  Quantidade: 34 cabos.
+
+* IC: 1.
+    * 1 Patch Panel de 12 portas
+    * 1 Switch de 12 portas
+
+* HC: 4.
+    * 1 Patch Panel de 24 portas
+    * 1 Switch de 24 portas
+    * 2 Patch Panel de 12 portas
+    * 2 Switch de 12 portas
+    * 2 Patch Panel de 8 portas
+    * 2 Switch de 8 portas
+
+* CP: 6.
+    * 6 Patch Panel de 48 portas
+    * 6 Switch de 48 portas
+
+* AP: 4.
+
+* Outlets: 202.
+
+* 202 Patch Cords ISO8877 connectors (RJ45) cada um com 3 m.
+
 
 Nota: Os cabos de cobre usados são CAT6A, visto que cobrem sinais de frequência até 500MHz, são capazes de transmitir sinais até 10Gbps. O cabo CAT6A é usado para suportar taxas de dados em 100 metros.

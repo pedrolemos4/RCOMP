@@ -1,10 +1,6 @@
 RCOMP 2020-2021 Project - Sprint 1 - Member 1191098 folder
 ===========================================
 
-#### This is just an example for a team member with number 1191098 ####
-### Each member should create a folder similar to this, matching his/her number. ###
-The owner of this folder (member number 1191098) will commit here all the outcomes (results/artifacts/products)		       of his/her work during sprint 1. This may encompass any kind of standard file types.
-
 # Piso 0 #
 ![Piso0](Piso0.PNG)
 
@@ -28,17 +24,17 @@ Como a sala 30.2 tem 51,856 m² de área, são necessários 12 outlets que foram
 Cada um destes 12 outlets está ligado a um CP instalado na sala 30.3.
 
 Como a sala 30.3 tem 51,856 m² de área, são necessários 12 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
-Foram colocados neste espaço um CP, devido ao número elevado de outlets existentes nesta zona (salas 30.1, 30.2, 30.3), com formato de formato de rack de 19'', um patch panel de 48 portas e um switch de 48 portas.
+Foram colocados neste espaço um CP, devido ao número elevado de outlets existentes nesta zona (salas 30.1, 30.2, 30.3), um patch panel de 48 portas, com 2U de tamanho, e um switch de 48 portas, de 2U tamanho. Será portanto utilizado um gabinete de 12U.
 
-A sala 30.4 é a sala de telecomunicações do edifício, uma vez que é nessa sala que entrarão os cabos de fibra provenientes do exterior e é a partir dessa sala que os cabos passarão para o andar de cima. Assim, nesta sala foi colocado o IC do piso, assim como um dos HC's, para cobrir a área do lado esquerdo do edifício.
+A sala 30.4 é a sala de telecomunicações do edifício, uma vez que é nessa sala que entrarão os cabos de fibra de ótica monomodo provenientes do exterior e é a partir dessa sala que os cabos passarão para o andar de cima. Assim, nesta sala foi colocado o IC do piso, assim como um dos HC's, para cobrir a área do lado esquerdo do edifício.
 Como esta sala tem 60,497 m² de área, são necessários 12 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância. 
-Nesta sala foi ainda colocado, com formato de rack 19'', um patch panel de 24 portas, sendo que 2 portas são utilizadas para o IC, 1 para um CP da sala 30.5, 1 para o HC da área do lado direito do edifício e 12 para os outlets da sala 30.4, e ainda um switch de 24 portas.
+Nesta sala foi ainda colocado um patch panel, para os cabos de fibra ótica monomodo, de 8 portas, sendo que 2 portas são utilizadas para o IC, 1 para um CP da sala 30.5 e 1 para o HC da área do lado direito do edifício. Para a ligação aos outlets foi colocado um patch panel de 24 portas, com 1U de tamanho, e um switch de 24 portas, como 1U de tamanho. Será portanto utilizado um gabinete de 6U.
 
 Como a sala 30.5 tem 47,531 m² de área, são necessários 10 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
-Nesta sala foi colocado um CP, um patch panel de 24 portas e um switch de 24 portas.
+Nesta sala foi colocado um CP, um patch panel de 24 portas, com 1U de tamanho, e um switch de 24 portas, com 1U de tamanho. Será portanto utilizado um gabinete de 6U.
 
 Em relação à área do lado direito, esta zona tem 1558,483 m² de área. Assim, são necessários 312 outlets para cobrir esta área. Foi colocado um HC no limite inferior esquerdo desta sala e 4 CP, cada um responsável por um quarto da sala. Assim conseguiu-se cumprir a regra de que um cabo de cobre não pode ter mais de 90 metros de comprimento. 
-No HP foi colocado um patch panel de 24 portas e um switch de 24 portas, para a ligação aos CP. Apesar de apenas serem utilizadas 10 portas (2 para cada CP), esta escolha permite a utilização de mais próximas, se assim for pretendido no futuro. Em cada CP foi colocado um patch panel de 144 portas e um switch de 144 portas. 
+No HP foi colocado um patch panel de 24 portas e um switch de 24 portas, para a ligação aos CP. Apesar de apenas serem utilizadas 10 portas (2 para cada CP), esta escolha permite a utilização de mais portas, se assim for pretendido no futuro. Em cada CP foi colocado um patch panel de 144 portas, com 6U de tamanho, e um switch de 144 portas, com 6U de tamanho. Será portanto utilizado um gabinete de 24U. 
 
 Para além dos outlets, como podemos observar na imagem acima representada foram instalados 2 AP, de 50 metros diâmetro, de forma a que exista cobertura WiFi em toda a área do piso.
 
@@ -56,8 +52,11 @@ Para além dos outlets, como podemos observar na imagem acima representada foram
     * 4 Switchs de 144 portas
 * 2 AP
 * 368 Outlets
+* 368 cabos de cobre CAT6A
 * 7004,26 metros de cabo de cobre CAT6A
-* 393,94 metros de fibra
+* 10 cabos de fibra
+* 393,94 metros de cabos de fibra
+* 368 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 # Piso 1 #
 ![Piso1](Piso1.PNG)
@@ -80,19 +79,19 @@ Como a sala 31.1 tem 47,531 m² de área, são necessários 10 outlets que foram
 Cada um destes 10 outlets está ligado a um CP instalado na sala 31.2.
 
 Como a sala 31.2 tem 51,856 m² de área, são necessários 12 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
-Nesta sala foi ainda colocado um CP, para garantir a ligação aos outlets das salas 31.1 e 31.2. Para além do CP foi colocado, com um formato de rack 19 '', um patch panel de 48 portas e um switch de 48 portas.
+Nesta sala foi ainda colocado um CP, para garantir a ligação aos outlets das salas 31.1 e 31.2. Para além do CP foi colocado um patch panel de 48 portas, que ocupa 2U de tamanho, e um switch de 48 portas, que ocupa 2U de tamanho. Será portanto um gabinete de 12U de tamanho.
 
 Como a sala 31.3 tem 74,078 m² de área, são necessários 16 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 Cada um destes 16 outlets está ligado a um CP, colocado na sala 34.6.
 
 Como a sala 31.4 tem 60,497 m² de área, são necessários 12 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
-Cada um destes 12 outlets está ligado a um HC que foi colocado nesta sala, que é onde chega a fibra proveniente do andar de baixo. Foi também instalado, com um formato de rack de 19'', um patch panel de 48 portas e um switch de 48 portas.
+Cada um destes 12 outlets está ligado a um HC que foi colocado nesta sala, que é onde chega a fibra ótica monomodo proveniente do andar de baixo. Foi também instalado um patch panel de 48 portas, de 2U tamanho, e um switch de 48 portas, de 2U de tamanho. Será portanto um gabinete de 12U de tamanho.
 
 Como a sala 31.5 tem 47,531 m² de área, são necessários 10 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 Cada um destes 10 outlets está ligado ao HC instalado na sala 31.4.
 
 Como a sala 31.6 tem 33,335 m² de área, são necessários 8 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
-Nesta sala foi ainda colocado um CP, para estabelecer ligação com os outlets das salas 31.3 e 31.6. Foi também colocado, com um formato de rack de 19 '', um patch panel de 48 portas e um switch de 48 portas.
+Nesta sala foi ainda colocado um CP, para estabelecer ligação com os outlets das salas 31.3 e 31.6. Foi também colocado um patch panel de 48 portas, com 2U de tamanho, e um switch de 48 portas, com 2U de tamanho. Será portanto utilizado um gabinete de 12U.
 
 Para além dos outlets, como podemos observar na imagem acima representada foram instalados 2 AP, de 50 metros diâmetro, de forma a que exista cobertura WiFi em toda a área do piso.
 
@@ -105,6 +104,8 @@ Para além dos outlets, como podemos observar na imagem acima representada foram
     * 2 Switchs de 48 portas
 * 2 AP
 * 68 outlets
+* 68 cabos de cobre CAT6A
 * 566,65 metros de cabo de cobre CAT6A
+* 5 cabos de fibra
 * 94 metros de fibra
-    
+* 68 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
