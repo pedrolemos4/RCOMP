@@ -136,8 +136,6 @@ Na sala 21.11 como tem 56,250 m² de área, serão necessários 12 outlets.
   Comprimento: 419,272 m.
   Quantidade: 14 cabos.
 
-* IC: 0.
-
 * HC: 2.
 
 * CP: 3.
@@ -145,3 +143,5 @@ Na sala 21.11 como tem 56,250 m² de área, serão necessários 12 outlets.
 * AP: 2.
 
 * Outlets: 116.
+
+Nota: Os cabos de cobre usados são CAT6A, visto que cobrem sinais de frequência até 500MHz, são capazes de transmitir sinais até 10Gbps. O cabo CAT6A é usado para suportar taxas de dados em 100 metros.
