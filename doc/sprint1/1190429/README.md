@@ -23,7 +23,7 @@ As ligações anteriormente referidas são de fibra ótica monomodo, uma vez que
 
 Todas as medições tiveram em conta a escala representada na imagem. Consideramos que 20 metros correspondem a 1,30 centímetros.
 
-Nota: linha representada a azul diz respeito à cablagem dupla de fibra ótica.
+**Nota**: linha representada a azul diz respeito à cablagem dupla de fibra ótica.
 
 
 # Piso 0 #
@@ -72,7 +72,7 @@ IC do piso 1 para HC: 18,23 metros.
 
 Exterior para MC: 12,71 metros.
 
-Nota: Nestas medidas apenas foi considerado um cabo por cada ligação.
+**Notas**: Nestas medidas apenas foi considerado um cabo por cada ligação.
 
 Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no inventário iremos duplicar estes resultados aquando da soma.
 
@@ -89,6 +89,7 @@ Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no invent�
 * 47 Outlets
 * 717,66 metros de cabo CAT6A
 * 170,74 metros de fibra ótica monomodo
+* 47 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 # Piso 1 #
 
@@ -151,7 +152,7 @@ MC para IC: 0,42 metros.
 
 MC para o exterior de forma a fazer a ligação aos outros ICs dos diversos edifícios do campus: 12,71 metros.
 
-Nota: Nestas medidas apenas foi considerado um cabo por cada ligação. 
+**Notas**: Nestas medidas apenas foi considerado um cabo por cada ligação. 
 
 Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no inventário iremos duplicar estes resultados aquando da soma.
 
@@ -172,7 +173,7 @@ Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no invent�
 * 52 Outlets
 * 384,48 metros de cabo CAT6A
 * 410,60 metros de fibra ótica monomodo
-
+* 52 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 #### Inventário Total do Edifício 1####
 * 1 MC
@@ -193,10 +194,11 @@ Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no invent�
 * 99 Outlets
 * 11022,14 metros de cabo CAT6A
 * 581,34 metros de fibra ótica monomodo
+* 99 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 
 
-Nota: Toda a cablagem de fibra ótica refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos.
+**Notas**: Toda a cablagem de fibra ótica refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos.
 
 Por defeito, utilizamos CPs com 24 portas. Desta forma, permite que no futuro haja uma atualização dos equipamentos nas diferentes salas, assegurando a possibilidade de evolução do número de equipamentos.
 
