@@ -6,13 +6,13 @@ RCOMP 2020-2021 Project - Sprint 1 - Member 1190974 folder
 The owner of this folder (member number 3333333) will commit here all the outcomes (results/artifacts/products)		       of his/her work during sprint 1. This may encompass any kind of standard file types.
 
 # Piso 0 #
-![Floor0.png](Floor0.png)
+![Floor0.PNG](Floor0.PNG)
 
 #### Medidas ####
 
 | Sala | Comprimento (cm) | Largura (cm) | Comprimento Real (m) | Largura Real (m) | Área (m²) | Outlets |
-|----------|----------|----------|---------|---------|---------|----------|
-| 20.1 |----------|----------|----------|----------|----------|----------|
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| 20.1 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | 20.2 | 5,20 | 2,90 | 13,000 | 7,250 | 94,250 | 20 |
 | 20.3 | 5,50 | 3,80 | 13,750 | 9,500 | 130,625 | 28 |
 | 20.4 | 7,60 | 3,40 | 19,000 | 8,500 | 161,500 | 34 |
@@ -90,12 +90,12 @@ O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um siwtc
 
 
 # Piso 1 #
-![Floor1.png](Floor1.png)
+![Floor1.PNG](Floor1.PNG)
 
 #### Medidas ####
 
 | Sala | Comprimento (cm) | Largura (cm) | Comprimento Real (m) | Largura Real (m) | Área (m²) | Outlets |
-|----------|----------|----------|---------|---------|---------|----------|
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | 21.1 | 2,20 | 1,50 | 5,500 | 4,000 | 22,000 | 6 |
 | 21.2 | 3,30 | 1,80 | 8,250 | 4,500 | 37,125 | 8 |
 | 21.3 | 3,30 | 2,00 | 8,250 | 5,000 | 41,250 | 10 |
