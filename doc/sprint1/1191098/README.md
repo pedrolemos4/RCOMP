@@ -19,7 +19,7 @@ The owner of this folder (member number 1191098) will commit here all the outcom
 | 30.5 | 1,40 | 1,10 | 7,778 | 6,111 | 47,531 | 10 |
 | Open Area | 10,10 | 5 | 56,111 | 27,778 | 1558,483 | 312 |
 
-Todas as medições tiveram em conta a escala representada na imagem. Consideramos que 10 metros correspondem a 3,3 centímetros. De forma a calcular o número de outlets por área, foi seguida a regra que refere que têm de existir 2 outlets em todas as salas deste piso.
+Todas as medições tiveram em conta a escala representada na figura. Considerei que 10 metros correspondem a 3,3 centímetros. De forma a calcular o número de outlets em cada sala, foi seguida a regra que refere que têm de existir 2 outlets a cada 10 m² em todas as salas deste piso.
 
 Como a sala 30.1 tem 47,531 m² de área, são necessários 10 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância. 
 Cada um destes 10 outlets está ligado a um CP instalado na sala 30.3.
@@ -30,9 +30,9 @@ Cada um destes 12 outlets está ligado a um CP instalado na sala 30.3.
 Como a sala 30.3 tem 51,856 m² de área, são necessários 12 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 Foram colocados neste espaço um CP, devido ao número elevado de outlets existentes nesta zona (salas 30.1, 30.2, 30.3), com formato de formato de rack de 19'', um patch panel de 48 portas e um switch de 48 portas.
 
-A sala 30.4 é a sala de telecomunicações do piso, uma vez que é nessa sala que entrarão os cabos de fibra provenientes do exterior e é a partir dessa sala que os cabos passarão para o andar de cima. Assim, nesta sala foi colocado o IC do piso, assim como um dos HC's, para cobrir a área do lado esquerdo do edifício.
+A sala 30.4 é a sala de telecomunicações do edifício, uma vez que é nessa sala que entrarão os cabos de fibra provenientes do exterior e é a partir dessa sala que os cabos passarão para o andar de cima. Assim, nesta sala foi colocado o IC do piso, assim como um dos HC's, para cobrir a área do lado esquerdo do edifício.
 Como esta sala tem 60,497 m² de área, são necessários 12 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância. 
-Nesta sala foi ainda colocado, com formato de 19'', um patch panel de 24 portas, sendo que 2 portas são utilizadas para o IC, 1 para um CP da sala 30.5, 1 para o HC da área do lado direito do edifício e 12 para os outlets da sala 30.4, e ainda um switch de 24 portas.
+Nesta sala foi ainda colocado, com formato de rack 19'', um patch panel de 24 portas, sendo que 2 portas são utilizadas para o IC, 1 para um CP da sala 30.5, 1 para o HC da área do lado direito do edifício e 12 para os outlets da sala 30.4, e ainda um switch de 24 portas.
 
 Como a sala 30.5 tem 47,531 m² de área, são necessários 10 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 Nesta sala foi colocado um CP, um patch panel de 24 portas e um switch de 24 portas.
@@ -52,11 +52,11 @@ Para além dos outlets, como podemos observar na imagem acima representada foram
     * 1 Switch
     * 1 Patch Panel de 48 portas
     * 1 Switch de 48 portas
-    * 4 Patch Panel de 144 portas
-    * 4 Switch de 144 portas
+    * 4 Patch Panels de 144 portas
+    * 4 Switchs de 144 portas
 * 2 AP
 * 368 Outlets
-* 7004,26 metros de cabo CAT6A
+* 7004,26 metros de cabo de cobre CAT6A
 * 393,94 metros de fibra
 
 # Piso 1 #
@@ -73,3 +73,38 @@ Para além dos outlets, como podemos observar na imagem acima representada foram
 | 31.5 | 1,40 | 1,10 | 7,778 | 6,111 | 47,531 | 10 |
 | 31.6 | 1,20 | 0,90 | 6,667 | 5,000 | 33,335 | 8 |
 | Open Area | 10,10 | 5 | 56,111 | 27,778 | 1558,483 |-----|
+
+Todas as medições tiveram em conta a escala representada na figura. Considerei que 10 metros correspondem a 3 centímetros. De forma a calcular o número de outlets em cada sala, foi seguida a regra que refere que têm de existir 2 outlets a cada 10 m² em todas as salas deste piso.
+
+Como a sala 31.1 tem 47,531 m² de área, são necessários 10 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
+Cada um destes 10 outlets está ligado a um CP instalado na sala 31.2.
+
+Como a sala 31.2 tem 51,856 m² de área, são necessários 12 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
+Nesta sala foi ainda colocado um CP, para garantir a ligação aos outlets das salas 31.1 e 31.2. Para além do CP foi colocado, com um formato de rack 19 '', um patch panel de 48 portas e um switch de 48 portas.
+
+Como a sala 31.3 tem 74,078 m² de área, são necessários 16 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
+Cada um destes 16 outlets está ligado a um CP, colocado na sala 34.6.
+
+Como a sala 31.4 tem 60,497 m² de área, são necessários 12 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
+Cada um destes 12 outlets está ligado a um HC que foi colocado nesta sala, que é onde chega a fibra proveniente do andar de baixo. Foi também instalado, com um formato de rack de 19'', um patch panel de 48 portas e um switch de 48 portas.
+
+Como a sala 31.5 tem 47,531 m² de área, são necessários 10 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
+Cada um destes 10 outlets está ligado ao HC instalado na sala 31.4.
+
+Como a sala 31.6 tem 33,335 m² de área, são necessários 8 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
+Nesta sala foi ainda colocado um CP, para estabelecer ligação com os outlets das salas 31.3 e 31.6. Foi também colocado, com um formato de rack de 19 '', um patch panel de 48 portas e um switch de 48 portas.
+
+Para além dos outlets, como podemos observar na imagem acima representada foram instalados 2 AP, de 50 metros diâmetro, de forma a que exista cobertura WiFi em toda a área do piso.
+
+#### Inventário ####
+* 1 HC
+    * 1 Patch Panel de 48 portas
+    * 1 Switch de 48 portas
+* 2 CP
+    * 2 Patch Panels de 48 portas
+    * 2 Switchs de 48 portas
+* 2 AP
+* 68 outlets
+* 566,65 metros de cabo de cobre CAT6A
+* 94 metros de fibra
+    
