@@ -84,6 +84,8 @@ O CP possui um formato de rack de 19'', um patch panel de 48 e um switch de 48.
 
 * Outlets: 86.
 
+* 86 Patch Cords ISO8877 connectors (RJ45) cada um com 3 m.
+
 
 # Piso 1 #
 ![Floor1.PNG](Floor1.PNG)
@@ -182,5 +184,42 @@ Na sala 21.11 como tem 56,250 m² de área, serão necessários 12 outlets.
 * AP: 2.
 
 * Outlets: 116.
+
+* 116 Patch Cords ISO8877 connectors (RJ45) cada um com 3 m.
+
+
+
+#### Inventário Total Edifício B ####
+
+* CAT6A: 
+  Comprimento: 2829,552 m.
+  Quantidade: 202 cabos.
+
+* Fibra 
+  Comprimento: 1000,378 m.
+  Quantidade: 34 cabos.
+
+* IC: 1.
+    * 1 Patch Panel de 12 portas
+    * 1 Switch de 12 portas
+
+* HC: 4.
+    * 1 Patch Panel de 24 portas
+    * 1 Switch de 24 portas
+    * 2 Patch Panel de 12 portas
+    * 2 Switch de 12 portas
+    * 2 Patch Panel de 8 portas
+    * 2 Switch de 8 portas
+
+* CP: 6.
+    * 6 Patch Panel de 48 portas
+    * 6 Switch de 48 portas
+
+* AP: 4.
+
+* Outlets: 202.
+
+* 202 Patch Cords ISO8877 connectors (RJ45) cada um com 3 m.
+
 
 Nota: Os cabos de cobre usados são CAT6A, visto que cobrem sinais de frequência até 500MHz, são capazes de transmitir sinais até 10Gbps. O cabo CAT6A é usado para suportar taxas de dados em 100 metros.
