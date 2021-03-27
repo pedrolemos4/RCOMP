@@ -2,7 +2,7 @@ RCOMP 2020-2021 Project - Sprint 1 - Member 1190769 folder
 ===========================================
 
 # Piso 0 #
-![piso0.png](piso0.png)
+![piso0.PNG](piso0.PNG)
 
 ### Medidas ###
 
@@ -34,11 +34,12 @@ Foi instalado neste espaço um CP devido ao número elevado de outlets, com form
 Na sala 40.3 como tem 56,173 m², serão necessários 12 outlets.
 
 Na sala 40.4 como tem 47,531 m², serão necessários 10 outlets.
+Esta é a sala de telecomunicações do edifício, uma vez que é nessa sala que entrarão os cabos de fibra de ótica monomodo provenientes do exterior e é a partir dessa sala que os cabos passarão para o andar de cima.
 Foi instalado neste espaço um HC e um IC devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 24 portas e um switch de 24 portas ligados ao HC e
 um patch panel de 8 portas e um switch de 8 portas ligados ao IC de forma a poder fazer as conexões aos outlets das salas 40.3 e 40.4.
 
 Na área da direita como tem 1694,400 m², serão necessários 340 outlets.
-Foram instalados sneste espaço 11 CPs devido ao número elevado de outlets, com formato de rack de 19'', 11 patch panels de 48 portas e 11 switches de 48 portas.
+Foram instalados neste espaço 11 CPs devido ao número elevado de outlets, com formato de rack de 19'', 11 patch panels de 48 portas e 11 switches de 48 portas.
 
 Toda a distribuição de outlets feita no piso foi realizada tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 Neste piso foram também colocados 2 Access Points com raio de 25 metros ligados com cabos de fibra, de forma a ser possível cobrir todo o piso.
@@ -62,15 +63,15 @@ Cada um dos Access Points está sintonizado num canal diferente de forma a evita
 * 2305,715 metros de cabo CAT6A
 * 34 cabos de fibra
 * 1307,572 metros de fibra
-* 386 Patch Cords de 3 metros
+* 386 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
-**Notas**: Toda a cablagem de fibra ótica neste piso refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos.
+**Notas**: Toda a cablagem de fibra ótica neste piso refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos, permitir taxas de dados mais altas e especiamlmente comprimentos de cabo mais longos e é também imune à dispersão.
 
 Todas as medidas de cabos realizadas neste piso tiveream em a conta a escala de:
 Cada 2.8 cm medidos, corresponde a 10 m
 
 # Piso 1 #
-![piso1.png](piso1.png)
+![piso1.PNG](piso1.PNG)
 
 ### Medidas ###
 
@@ -123,9 +124,9 @@ Cada um dos Access Points está sintonizado num canal diferente de forma a evita
 * 411,965 metros de cabo CAT6A
 * 10 cabos de fibra
 * 325,572 metros de fibra
-* 50 Patch Cords de 3 metros
+* 50 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
-**Notas**: Toda a cablagem de fibra ótica neste piso refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos.
+**Notas**: Toda a cablagem de fibra ótica neste piso refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos, permitir taxas de dados mais altas e especiamlmente comprimentos de cabo mais longos e é também imune à dispersão.
 
 Todas as medidas de cabos realizadas neste piso tiveream em a conta a escala de:
 Cada 2.8 cm medidos, corresponde a 10 m
@@ -149,4 +150,4 @@ Cada 2.8 cm medidos, corresponde a 10 m
   * 2717,68 metros de cabo CAT6A
 * 44 cabos de fibra
   * 1633,144 metros de fibra
-* 436 Patch Cords de 3 metros
+* 436 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
