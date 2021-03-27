@@ -17,7 +17,7 @@ De forma a ser possível alcançar a redundância de cabos foram estabelecidas a
 * Edifício 4 para 5, onde o total de cabo corresponde a 167,69 metros.
 * Edifício 1 para 5, onde o total de cabo corresponde a 193,08 metros.
 
-Ligação para o edifício 1 tem aproximadamente 83,08 metros, logo no total, o backbone do campus tem cerca de 1520,00 metros. 
+Ligação do exterior para o edifício 1 tem aproximadamente 83,08 metros, logo no total, o backbone do campus tem cerca de 1520,00 metros. 
 
 As ligações anteriormente referidas são de fibra ótica monomodo, uma vez que é imune à dispersão e, por isso, permite taxas de dados mais altas e especialmente comprimentos de cabo mais longos.
 
@@ -50,7 +50,7 @@ Foi instalado neste espaço um CP devido ao número elevado de outlets, com form
 Na sala 10.2 como tem 131,575 m², serão necessários 26 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância. 
 
 Neste espaço, também foram colocados o HC que cobre a área total do piso, com formato de rack de 19'', um patch panel de 12 portas, sendo utilizadas 2 portas para o IC e as restantes para cada CP do piso e um switch de 12 portas.
-
+A área coberta por cada HC deve ser menor que 1000 m². Assim, como as dimensões deste edifício são 40 x 20 metros, apenas é necessário existir um HC por piso que engloba toda a sua área.
 Para além do HC, foi instalado um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 48 portas e um switch de 48 portas. 
 
 
@@ -59,6 +59,22 @@ Na sala 10.3 tal como referia no enunciado foram colocados 5 outlets na mesa que
 Para além dos outlets, como podemos observar na imagem acima representada foi instalado um AP no centro deste piso para que exista cobertura WiFi em toda a sua área. 
 Para perceber o número de AP a colocar no piso, usamos um raio 25 metros. 
 Como este piso tem as dimensões 40 x 20 metros, um AP por piso chega para assegurar a cobertura WiFi na área do piso.
+
+#### Metros de cabos necessários ####
+
+CP para Outlets: 717,66 metros.
+
+HP para AP: 31,98 metros.
+
+HC para CP: 22,45 metros.
+
+IC do piso 1 para HC: 18,23 metros.
+
+Exterior para MC: 12,71 metros.
+
+Nota: Nestas medidas apenas foi considerado um cabo por cada ligação.
+
+Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no inventário iremos duplicar estes resultados aquando da soma.
 
 #### Inventário ####
 * 1 HC
@@ -72,6 +88,7 @@ Como este piso tem as dimensões 40 x 20 metros, um AP por piso chega para asseg
 * 1 AP
 * 47 Outlets
 * 717,66 metros de cabo CAT6A
+* 170,74 metros de fibra ótica monomodo
 
 # Piso 1 #
 
@@ -99,7 +116,7 @@ O MC tem um formato de rack de 19'', um patch panel de 12 portas, sendo utilizad
 O IC tem um formato de rack de 19'', um patch panel de 8 portas, sendo utilizadas 2 portas para cada HC do edifício e para o MC e um switch de 8 portas.
 
 O HC tem um formato de rack de 19'', um patch panel de 12 portas, sendo utilizadas 2 portas para o IC e as restantes para cada CP do piso e um switch de 12 portas.
-
+A área coberta por cada HC deve ser menor que 1000 m². Assim, como as dimensões deste edifício são 40 x 20 metros, apenas é necessário existir um HC por piso que engloba toda a sua área.
 
 Na sala 11.2 como tem 44,374 m², serão necessários 9 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 
@@ -120,6 +137,24 @@ No centro deste piso foi colocado também um AP de forma a garantir a cobertura 
 Para perceber o número de AP a colocar no piso, usamos um raio 25 metros. 
 Como este piso tem as dimensões 40 x 20 metros, um AP por piso chega para assegurar a cobertura WiFi na área do piso.
 
+#### Metros de cabos necessários ####
+
+CP para Outlets: 384,48 metros.
+
+HP para AP: 47,17 metros.
+
+HC para CP: 144,58 metros.
+
+IC para HC: 0,42 metros.
+
+MC para IC: 0,42 metros.
+
+MC para o exterior de forma a fazer a ligação aos outros ICs dos diversos edifícios do campus: 12,71 metros.
+
+Nota: Nestas medidas apenas foi considerado um cabo por cada ligação. 
+
+Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no inventário iremos duplicar estes resultados aquando da soma.
+
 #### Inventário ####
 * 1 MC
     * 1 Patch Panel de 12 portas
@@ -136,9 +171,33 @@ Como este piso tem as dimensões 40 x 20 metros, um AP por piso chega para asseg
 * 1 AP
 * 52 Outlets
 * 384,48 metros de cabo CAT6A
+* 410,60 metros de fibra ótica monomodo
+
+
+#### Inventário Total do Edifício 1####
+* 1 MC
+  * 1 Patch Panel de 12 portas
+  * 1 Switch de 12 portas
+* 1 IC
+  * 1 Patch Panel de 8 portas
+  * 1 Switch de 8 portas  
+* 2 HC
+  * 2 Patch Panel de 12 portas
+  * 2 Switch de 12 portas
+* 5 CP
+  * 4 Patch Panel de 24 portas
+  * 4 Switch de 24 portas
+  * 1 Patch Panel de 48 portas
+  * 1 Switch de 48 portas
+* 2 AP
+* 99 Outlets
+* 11022,14 metros de cabo CAT6A
+* 581,34 metros de fibra ótica monomodo
 
 
 
 Nota: Toda a cablagem de fibra ótica refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos.
+
+Por defeito, utilizamos CPs com 24 portas. Desta forma, permite que no futuro haja uma atualização dos equipamentos nas diferentes salas, assegurando a possibilidade de evolução do número de equipamentos.
 
 Os cabos de cobre usados são CAT6A, visto que cobrem sinais de frequência até 500MHz, são capazes de transmitir sinais até 10Gbps. O cabo CAT6A é usado para suportar taxas de dados em 100 metros.
