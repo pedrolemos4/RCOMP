@@ -22,7 +22,8 @@ Todas as medições tiveram em conta a escala representada na imagem. Consideram
 
 De forma a calcular o número de outlets por área, foi seguida a regra que refere que por 10 metros quadrados têm que existir 2 outlets em todas as salas deste piso.
 
-Toda a cablagem de fibra ótica refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos.
+Toda a cablagem de fibra ótica refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos, permitir taxas de dados mais altas e especiamlmente comprimentos de cabo mais longos
+e é também imune à dispersão.
 
 Todos os outlets estão conectados aos CP ou HC por cabos CAT6A enquanto que a conexão entre IC e HC ou HC e CP está efetuada por cabos de fibra. 
 
@@ -36,13 +37,29 @@ Os outlets foram colocados de forma a que existisse sempre um outlet a menos de 
 Na service desk como tem 17,063 m², serão necessários 4 outlets.
 
 Na sala 20.1 como é uma área de armazenamento é uma zona ideal para colocar o IC e o um dos HC deste piso pois estão armazenados numa zona fora de acesso público.
+
 Esta sala é também a TE, onde os equipamentos não ultrapassam os 50% do espaço de armazenamento providenciando espaço para melhorias no futuro.
+
+O IC possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+
+O HC possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+
 
 Na sala 20.2 como tem 94,250 m², serão necessários 20 outlets e um CP devido ao elevado número de outlets.
 
+O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+
+
 Na sala 20.3 como tem 130,625 m², serão necessários 28 outlets e está colocado também o 2º e último HC do piso conectado ao CP presente também nesta sala conectado aos outlets desta sala.
 
+O HC possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um siwtch de AAAAAA.
+
+O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um siwtch de AAAAAA.
+
+
 Na sala 20.4 como tem 161,500 m², serão necessários 34 outlets e um CP devido ao elevado número de outlets.
+
+O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um siwtch de AAAAAA.
 
 
 #### Inventário ####
@@ -56,10 +73,16 @@ Na sala 20.4 como tem 161,500 m², serão necessários 34 outlets e um CP devido
   Quantidade: 20 cabos.
 
 * IC: 1.
+    * 1 Patch Panel de AAAA portas
+    * 1 Switch de AAAA portas
 
 * HC: 2.
+    * 1 Patch Panel de AAAA portas
+    * 1 Switch de AAAA portas
 
 * CP: 3.
+    * 1 Patch Panel de AAAA portas
+    * 1 Switch de AAAA portas
 
 * AP: 2.
 
@@ -89,7 +112,8 @@ Todas as medições tiveram em conta a escala representada na imagem. Consideram
 
 De forma a calcular o número de outlets por área, foi seguida a regra que refere que por 10 metros quadrados têm que existir 2 outlets em todas as salas deste piso.
 
-Toda a cablagem de fibra ótica refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos.
+Toda a cablagem de fibra ótica refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos, permitir taxas de dados mais altas e especiamlmente comprimentos de cabo mais longos
+e é também imune à dispersão.
 
 Todos os outlets estão conectados aos CP ou HC por cabos CAT6A enquanto que a conexão entre IC e HC ou HC e CP está efetuada por cabos de fibra. 
 
@@ -106,6 +130,11 @@ Na sala 21.1 como tem 22 m² de área, serão necessários 6 outlets.
 Na sala 21.2 como tem 37,125 m² de área, serão necessários 8 outlets e um CP para conectar os outlets das salas 21.3, 21.4 e 21.5.
 Como é nesta sala está colocada a passagem dos cabos a partir do piso 0 está colocado um HC no teto falso dessa sala, que está conectado aos outlets da sala 21.1 por CAT6A.
 
+O HC possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+
+O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+
+
 Na sala 21.3 como tem 41,250 m² de área, serão necessários 10 outlets.
 
 Na sala 21.4 como tem 41,250 m² de área, serão necessários 10 outlets.
@@ -117,9 +146,17 @@ Na sala 21.6 como tem 47,500 m² de área, serão necessários 10 outlets.
 Na sala 21.7 como tem 47,500 m² de área, serão necessários 10 outlets.
 Possui também um CP, que está conectado ao 2º HC do piso colocado entre a sala 21.6 e 21.7, e que conecta os outlets das salas 21.6, 21.7, 21.8 devido ao elevado somatório de outlets existentes nas salas.
 
+O HC possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+
+O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+
+
 Na sala 21.8 como tem 47,500 m² de área, serão necessários 10 outlets.
 
 Na sala 21.9 como tem 84,375 m² de área, serão necessários 18 outlets e um CP que está conectado também aos outlets das salas 21.10 e 21.11 devido ao elevado somatório de outlets existentes nas salas.
+
+O CP possui um formato de rack de AAAAAAAA, um patch panel de AAAAAAA e um switch de AAAAAA.
+
 
 Na sala 21.10 como tem 56,250 m² de área, serão necessários 12 outlets.
 
@@ -137,8 +174,12 @@ Na sala 21.11 como tem 56,250 m² de área, serão necessários 12 outlets.
   Quantidade: 14 cabos.
 
 * HC: 2.
+    * 1 Patch Panel de AAAA portas
+    * 1 Switch de AAAA portas
 
 * CP: 3.
+    * 1 Patch Panel de AAAA portas
+    * 1 Switch de AAAA portas
 
 * AP: 2.
 
