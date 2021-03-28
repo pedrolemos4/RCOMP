@@ -36,26 +36,26 @@ Na sala 20.1 como é uma área de armazenamento é uma zona ideal para colocar o
 
 Esta sala é também a TE, onde os equipamentos não ultrapassam os 50% do espaço de armazenamento providenciando espaço para melhorias no futuro.
 
-O IC possui um formato de rack de 10'', um patch panel de 12 portas com tamanho de 1U e um switch de 12 portas com tamanho de 1U. Será portanto utilizado um cabinete de 6U.
+O IC possui um formato de rack de 10'', um patch panel de 12 portas com tamanho de 1U e um switch de 12 portas com tamanho de 1U. Será portanto utilizado um gabinete de 6U.
 
-O HC possui um formato de rack de 10'', um patch panel de 12 portas com tamanho de 1U e um switch de 12 portas com tamanho de 1U. Será portanto utilizado um cabinete de 6U.
+O HC possui um formato de rack de 10'', um patch panel de 12 portas com tamanho de 1U e um switch de 12 portas com tamanho de 1U. Será portanto utilizado um gabinete de 6U.
 
 
 Na sala 20.2 como tem 94,250 m², serão necessários 20 outlets e um CP devido ao elevado número de outlets que está conectado aos outlets desta sala e da service desk.
 
-O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho de 2U e um switch de 48 portas com tamanho de 2U. Será portanto utilizado um cabinete de 12U.
+O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho de 2U e um switch de 48 portas com tamanho de 2U. Será portanto utilizado um gabinete de 12U.
 
 
 Na sala 20.3 como tem 130,625 m², serão necessários 28 outlets e está colocado também o 2º e último HC do piso conectado ao CP presente também nesta sala conectado aos outlets desta sala.
 
-O HC possui um formato de rack de 10'', um patch panel de 12 portas com tamanho de 1U e um switch de 12 portas com tamanho de 1U. Será portanto utilizado um cabinete de 6U.
+O HC possui um formato de rack de 10'', um patch panel de 12 portas com tamanho de 1U e um switch de 12 portas com tamanho de 1U. Será portanto utilizado um gabinete de 6U.
 
-O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho de 2U e um switch de 48 portas com tamanho de 2U. Será portanto utilizado um cabinete de 12U.
+O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho de 2U e um switch de 48 portas com tamanho de 2U. Será portanto utilizado um gabinete de 12U.
 
 
 Na sala 20.4 como tem 161,500 m², serão necessários 34 outlets e um CP devido ao elevado número de outlets.
 
-O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho de 2U e um switch de 48 portas com tamanho de 2U. Será portanto utilizado um cabinete de 12U.
+O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho de 2U e um switch de 48 portas com tamanho de 2U. Será portanto utilizado um gabinete de 12U.
 
 
 #### Inventário ####
@@ -144,16 +144,16 @@ Na sala 21.6 como tem 47,500 m² de área, serão necessários 10 outlets.
 Na sala 21.7 como tem 47,500 m² de área, serão necessários 10 outlets, possui um HC conectado ao CP presente entre a sala 21.6 e 21.7 
 que conecta os outlets das salas 21.6, 21.7, 21.8 devido ao elevado somatório de outlets existentes nas salas.
 
-O HC possui um formato de rack de 19'', um patch panel de 24 portas com tamanho de 2U e um switch de 24 portas com tamanho de 2U. Será portanto utilizado um cabinete de 12U.
+O HC possui um formato de rack de 19'', um patch panel de 24 portas com tamanho de 1U e um switch de 24 portas com tamanho de 1U. Será portanto utilizado um gabinete de 6U.
 
-O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho de 2U e um switch de 48 portas com tamanho de 2U. Será portanto utilizado um cabinete de 12U.
+O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho de 2U e um switch de 48 portas com tamanho de 2U. Será portanto utilizado um gabinete de 12U.
 
 
 Na sala 21.8 como tem 47,500 m² de área, serão necessários 10 outlets.
 
 Na sala 21.9 como tem 84,375 m² de área, serão necessários 18 outlets e um CP que está conectado também aos outlets das salas 21.10 e 21.11 devido ao elevado somatório de outlets existentes nas salas.
 
-O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho de 2U e um switch de 48 portas com tamanho de 2U. Será portanto utilizado um cabinete de 12U.
+O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho de 2U e um switch de 48 portas com tamanho de 2U. Será portanto utilizado um gabinete de 12U.
 
 
 Na sala 21.10 como tem 56,250 m² de área, serão necessários 12 outlets.
