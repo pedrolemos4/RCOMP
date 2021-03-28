@@ -44,14 +44,17 @@ De forma a calcular o número de outlets por área, foi seguida a regra que refe
 
 Na sala 10.1 como tem 80,971 m², serão necessários 16 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 
-Foi instalado neste espaço um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 24 portas e um switch de 24 portas.
+Foi instalado neste espaço um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 24 portas, sendo utilizadas para cada outlet da sala, com 1U de tamanho e um switch de 24 portas, com 1U de tamanho.
+Será portanto utilizado um gabinete de 6U.
 
 
 Na sala 10.2 como tem 131,575 m², serão necessários 26 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância. 
 
-Neste espaço, também foram colocados o HC que cobre a área total do piso, com formato de rack de 19'', um patch panel de 12 portas, sendo utilizadas 2 portas para o IC e as restantes para cada CP do piso e um switch de 12 portas.
+Neste espaço, também foram colocados o HC que cobre a área total do piso, com formato de rack de 10'', um patch panel de 12 portas, sendo utilizadas 2 portas para o IC e as restantes para cada CP do piso, com 1U de tamanho, e um switch de 12 portas, com 1U de tamanho.
+Será portanto utilizado um gabinete de 6U.
 A área coberta por cada HC deve ser menor que 1000 m². Assim, como as dimensões deste edifício são 40 x 20 metros, apenas é necessário existir um HC por piso que engloba toda a sua área.
-Para além do HC, foi instalado um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 48 portas e um switch de 48 portas. 
+Para além do HC, foi instalado um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 48 portas, sendo utilizadas para cada outlet deste espaço e para os outlets da mesa do espaço 10.3, com 2U de tamanho, e um switch de 48 portas, com 2U de tamanho.
+Será portanto um gabinete de 12U de tamanho.
 
 
 Na sala 10.3 tal como referia no enunciado foram colocados 5 outlets na mesa que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
@@ -114,27 +117,32 @@ De forma a calcular o número de outlets por área, foi seguida a regra que refe
 
 Tal como o enunciado refere a sala 11.1 é o datacenter do campus, logo foram instalados nesta sala um MC, um IC e um HC.
 
-O MC tem um formato de rack de 19'', um patch panel de 12 portas, sendo utilizadas 2 portas para cada IC de cada edifício e um switch de 12 portas.
+O MC tem um formato de rack de 10'', um patch panel de 12 portas, sendo utilizadas 2 portas para cada IC de cada edifício, com 1U de tamanho e um switch de 12 portas, com 1U de tamanho.
+Será portanto utilizado um gabinete de 6U.
 
-O IC tem um formato de rack de 19'', um patch panel de 8 portas, sendo utilizadas 2 portas para cada HC do edifício e para o MC e um switch de 8 portas.
+O IC tem um formato de rack de 10'', um patch panel de 12 portas, sendo utilizadas 2 portas para cada HC do edifício e para o MC, com 1U de tamanho e um switch de 12 portas, com 1U de tamanho.
+Será portanto utilizado um gabinete de 6U.
 
-O HC tem um formato de rack de 19'', um patch panel de 12 portas, sendo utilizadas 2 portas para o IC e as restantes para cada CP do piso e um switch de 12 portas.
+O HC tem um formato de rack de 10'', um patch panel de 12 portas, sendo utilizadas 2 portas para o IC e as restantes para cada CP do piso, com 1U de tamanho e um switch de 12 portas, com 1U de tamanho.
+Será portanto utilizado um gabinete de 6U.
 A área coberta por cada HC deve ser menor que 1000 m². Assim, como as dimensões deste edifício são 40 x 20 metros, apenas é necessário existir um HC por piso que engloba toda a sua área.
+
 
 Na sala 11.2 como tem 44,374 m², serão necessários 9 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 
-Foi instalado neste espaço um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 24 portas e um switch de 24 portas.
+Foi instalado neste espaço um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 24 portas, com 1U de tamanho e um switch de 24 portas, com 1U de tamanho.
+Será portanto utilizado um gabinete de 6U.
 
 
 Na sala 11.3 como tem 86,508 m², serão necessários 17 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 
-Foi instalado neste espaço um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 24 portas e um switch de 24 portas.
-
+Foi instalado neste espaço um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 24 portas, com 1U de tamanho e um switch de 24 portas, com 1U de tamanho.
+Será portanto utilizado um gabinete de 6U.
 
 Na sala 11.4 como tem 131,486 m², serão necessários 26 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 
-Foi instalado neste espaço um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 48 portas e um switch de 48 portas.
-
+Foi instalado neste espaço um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 48 portas, com 2U de tamanho e um switch de 48 portas, com 2U de tamanho.
+Será portanto utilizado um gabinete de 12U.
 
 No centro deste piso foi colocado também um AP de forma a garantir a cobertura de WiFi em toda a sua área. 
 Para perceber o número de AP a colocar no piso, usamos um raio 25 metros. 
@@ -163,14 +171,16 @@ Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no invent�
     * 1 Patch Panel de 12 portas
     * 1 Switch de 12 portas
 * 1 IC
-    * 1 Patch Panel de 8 portas
-    * 1 Switch de 8 portas
+    * 1 Patch Panel de 12 portas
+    * 1 Switch de 12 portas
 * 1 HC
     * 1 Patch Panel de 12 portas
     * 1 Switch de 12 portas
 * 3 CP
-    * 3 Patch Panel de 24 portas
-    * 3 Switch de 24 portas
+    * 2 Patch Panel de 24 portas
+    * 2 Switch de 24 portas
+    * 1 Patch Panel de 48 portas
+    * 1 Switch de 48 portas
 * 1 AP
 * 52 Outlets
 * 384,48 metros de cabo de cobre CAT6A
@@ -184,16 +194,16 @@ Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no invent�
     * 1 Patch Panel de 12 portas
     * 1 Switch de 12 portas
 * 1 IC
-    * 1 Patch Panel de 8 portas
-    * 1 Switch de 8 portas  
+    * 1 Patch Panel de 12 portas
+    * 1 Switch de 12 portas  
 * 2 HC
     * 2 Patch Panel de 12 portas
     * 2 Switch de 12 portas
 * 5 CP
-    * 4 Patch Panel de 24 portas
-    * 4 Switch de 24 portas
-    * 1 Patch Panel de 48 portas
-    * 1 Switch de 48 portas
+    * 3 Patch Panel de 24 portas
+    * 3 Switch de 24 portas
+    * 2 Patch Panel de 48 portas
+    * 2 Switch de 48 portas
 * 2 AP
 * 99 Outlets
 * 11022,14 metros de cabo de cobre CAT6A
