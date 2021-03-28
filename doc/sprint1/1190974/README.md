@@ -84,7 +84,7 @@ O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho 
 
 * Outlets: 86.
 
-* 86 Patch Cords ISO8877 connectors (RJ45) cada um com 3 m.
+* 106 Patch Cords ISO8877 connectors (RJ45) cada um com 3 m.
 
 
 # Piso 1 #
@@ -185,7 +185,7 @@ Na sala 21.11 como tem 56,250 m² de área, serão necessários 12 outlets.
 
 * Outlets: 116.
 
-* 116 Patch Cords ISO8877 connectors (RJ45) cada um com 3 m.
+* 130 Patch Cords ISO8877 connectors (RJ45) cada um com 3 m.
 
 
 
@@ -217,7 +217,8 @@ Na sala 21.11 como tem 56,250 m² de área, serão necessários 12 outlets.
 
 * Outlets: 202.
 
-* 202 Patch Cords ISO8877 connectors (RJ45) cada um com 3 m.
+* 236 Patch Cords ISO8877 connectors (RJ45) cada um com 3 m.
 
 
-Nota: Os cabos de cobre usados são CAT6A, visto que cobrem sinais de frequência até 500MHz, são capazes de transmitir sinais até 10Gbps. O cabo CAT6A é usado para suportar taxas de dados em 100 metros.
+Notas: Os cabos de cobre usados são CAT6A, visto que cobrem sinais de frequência até 500MHz, são capazes de transmitir sinais até 10Gbps. O cabo CAT6A é usado para suportar taxas de dados em 100 metros.
+	   O número de patch cords é igual ao número de portas utilizadas em todos os patch panels.
