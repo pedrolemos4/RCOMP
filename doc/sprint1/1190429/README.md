@@ -54,7 +54,7 @@ Neste espaço, também foram colocados o HC que cobre a área total do piso, com
 Será portanto utilizado um gabinete de 6U.
 A área coberta por cada HC deve ser menor que 1000 m². Assim, como as dimensões deste edifício são 40 x 20 metros, apenas é necessário existir um HC por piso que engloba toda a sua área.
 Para além do HC, foi instalado um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 48 portas, sendo utilizadas para cada outlet deste espaço e para os outlets da mesa do espaço 10.3, com 2U de tamanho, e um switch de 48 portas, com 2U de tamanho.
-Será portanto um gabinete de 12U de tamanho.
+Será portanto utilizado um gabinete de 12U de tamanho.
 
 
 Na sala 10.3 tal como referia no enunciado foram colocados 5 outlets na mesa que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
@@ -94,7 +94,7 @@ Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no invent�
 * 47 cabos de cobre CAT6A  
 * 170,74 metros de fibra ótica monomodo
 * 8 cabos de fibra ótica monomodo
-* 47 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
+* 55 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 # Piso 1 #
 
@@ -187,9 +187,9 @@ Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no invent�
 * 52 cabos de cobre CAT6A  
 * 410,60 metros de fibra ótica monomodo
 * 10 cabos de fibra ótica monomodo
-* 52 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
+* 62 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
-#### Inventário Total do Edifício 1####
+# Inventário Total do Edifício 1#
 * 1 MC
     * 1 Patch Panel de 12 portas
     * 1 Switch de 12 portas
@@ -210,12 +210,14 @@ Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no invent�
 * 99 cabos de cobre CAT6A
 * 581,34 metros de fibra ótica monomodo
 * 18 cabos de fibra ótica monomodo  
-* 99 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
+* 117 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 
 
 **Notas**: Toda a cablagem de fibra ótica refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos.
 
 Por defeito, utilizamos CPs com 24 portas. Desta forma, permite que no futuro haja uma atualização dos equipamentos nas diferentes salas, assegurando a possibilidade de evolução do número de equipamentos.
+
+O número de patch cords foi calculado como sendo igual ao número de portas que estão a ser utilizadas em todos os patch panels.
 
 Os cabos de cobre usados são CAT6A, visto que cobrem sinais de frequência até 500MHz, são capazes de transmitir sinais até 10Gbps. O cabo CAT6A é usado para suportar taxas de dados em 100 metros.
