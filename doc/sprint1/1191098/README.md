@@ -34,12 +34,14 @@ Como a sala 30.5 tem 47,531 m² de área, são necessários 10 outlets que foram
 Nesta sala foi colocado um CP, um patch panel de 24 portas, com 1U de tamanho, e um switch de 24 portas, com 1U de tamanho. Será portanto utilizado um gabinete de 6U.
 
 Em relação à área do lado direito, esta zona tem 1558,483 m² de área. Assim, são necessários 312 outlets para cobrir esta área. Foi colocado um HC no limite inferior esquerdo desta sala e 4 CP, cada um responsável por um quarto da sala. Assim conseguiu-se cumprir a regra de que um cabo de cobre não pode ter mais de 90 metros de comprimento. 
-No HP foi colocado um patch panel de 24 portas e um switch de 24 portas, para a ligação aos CP. Apesar de apenas serem utilizadas 10 portas (2 para cada CP), esta escolha permite a utilização de mais portas, se assim for pretendido no futuro. Em cada CP foi colocado um patch panel de 144 portas, com 6U de tamanho, e um switch de 144 portas, com 6U de tamanho. Será portanto utilizado um gabinete de 24U. 
+No HC foi colocado um patch panel de 24 portas e um switch de 24 portas, para a ligação aos CP. Apesar de apenas serem utilizadas 10 portas (2 para cada CP), esta escolha permite a utilização de mais portas, se assim for pretendido no futuro. Em cada CP foi colocado um patch panel de 144 portas, com 6U de tamanho, e um switch de 144 portas, com 6U de tamanho. Será portanto utilizado um gabinete de 24U. 
 
-Para além dos outlets, como podemos observar na imagem acima representada foram instalados 2 AP, de 50 metros diâmetro, de forma a que exista cobertura WiFi em toda a área do piso.
+Para além dos outlets, como podemos observar na imagem acima representada foram instalados 2 AP, de 50 metros diâmetro, de forma a que exista cobertura WiFi em toda a área do piso. Cada um dos AP's está sintonizado num canal diferente de forma a evitar conflitos entre ambos.
 
 #### Inventário ####
 * 1 IC
+    * 1 Patch Panel de 8 portas
+    * 1 Switch de 8 portas
 * 2 HC
     * 2 Patch Panel de 24 portas
     * 2 Switchs de 24 portas
@@ -93,7 +95,7 @@ Cada um destes 10 outlets está ligado ao HC instalado na sala 31.4.
 Como a sala 31.6 tem 33,335 m² de área, são necessários 8 outlets que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 Nesta sala foi ainda colocado um CP, para estabelecer ligação com os outlets das salas 31.3 e 31.6. Foi também colocado um patch panel de 48 portas, com 2U de tamanho, e um switch de 48 portas, com 2U de tamanho. Será portanto utilizado um gabinete de 12U.
 
-Para além dos outlets, como podemos observar na imagem acima representada foram instalados 2 AP, de 50 metros diâmetro, de forma a que exista cobertura WiFi em toda a área do piso.
+Para além dos outlets, como podemos observar na imagem acima representada foram instalados 2 AP, de 50 metros diâmetro, de forma a que exista cobertura WiFi em toda a área do piso. Cada um dos AP's está sintonizado num canal diferente de forma a evitar conflitos entre ambos.
 
 #### Inventário ####
 * 1 HC
@@ -109,3 +111,28 @@ Para além dos outlets, como podemos observar na imagem acima representada foram
 * 5 cabos de fibra
 * 94 metros de fibra
 * 68 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
+
+
+# Inventário Total #
+* 1 IC
+    * 1 Patch Panel de 8 portas
+    * 1 Switch de 8 portas
+* 3 HC
+    * 2 Patch Panel de 24 portas
+    * 2 Switchs de 24 portas
+    * 1 Patch Panel de 48 portas
+    * 1 Switch de 48 portas
+* 8 CP
+    * 1 Patch Panel de 24 portas
+    * 1 Switch
+    * 3 Patch Panel de 48 portas
+    * 3 Switch de 48 portas
+    * 4 Patch Panels de 144 portas
+    * 4 Switchs de 144 portas
+* 4 AP
+* 436 Outlets
+* 436 cabos de cobre CAT6A
+* 7570,91 metros de cabo de cobre CAT6A
+* 15 cabos de fibra
+* 487,94 metros de cabos de fibra
+* 436 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
