@@ -206,7 +206,7 @@ Nas ligações de fibra ótica monomodo, como são de cablagem dupla, no invent�
     * 2 Switch de 48 portas
 * 2 AP
 * 99 Outlets
-* 11022,14 metros de cabo de cobre CAT6A
+* 1102,14 metros de cabo de cobre CAT6A
 * 99 cabos de cobre CAT6A
 * 581,34 metros de fibra ótica monomodo
 * 18 cabos de fibra ótica monomodo  
