@@ -128,9 +128,9 @@ Na sala 21.1 como tem 22 m² de área, serão necessários 6 outlets.
 Na sala 21.2 como tem 37,125 m² de área, serão necessários 8 outlets e um CP para conectar os outlets das salas 21.3, 21.4 e 21.5.
 Como é nesta sala está colocada a passagem dos cabos a partir do piso 0 está colocado um HC no teto falso dessa sala, que está conectado aos outlets da sala 21.1 por CAT6A.
 
-O HC possui um formato de rack de 10'', 2 patch panel de 12 portas com tamanho de 1U e dois switch de 12 portas com tamanho de 1U. Será portanto utilizado um cabinete de 6U.
+O HC possui um formato de rack de 10'', 2 patch panel de 12 portas com tamanho de 1U e dois switch de 12 portas com tamanho de 1U. Será portanto utilizado um gabinete de 6U.
 
-O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho de 2U e um switch de 48 portas com tamanho de 2U. Será portanto utilizado um cabinete de 12U.
+O CP possui um formato de rack de 19'', um patch panel de 48 portas com tamanho de 2U e um switch de 48 portas com tamanho de 2U. Será portanto utilizado um gabinete de 12U.
 
 
 Na sala 21.3 como tem 41,250 m² de área, serão necessários 10 outlets.

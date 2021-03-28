@@ -69,9 +69,11 @@ Cada um dos Access Points está sintonizado num canal diferente de forma a evita
 * 2305,715 metros de cabo CAT6A
 * 34 cabos de fibra
 * 1307,572 metros de fibra
-* 386 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
+* 420 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 **Notas**: Toda a cablagem de fibra ótica neste piso refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos, permitir taxas de dados mais altas e especiamlmente comprimentos de cabo mais longos e é também imune à dispersão.
+
+O número de patch cords foi calculado como sendo igual ao número de portas que estão a ser utilizadas em todos os patch panels.
 
 Todas as medidas de cabos realizadas neste piso tiveream em a conta a escala de:
 Cada 2.8 cm medidos, corresponde a 10 m
@@ -133,9 +135,11 @@ Cada um dos Access Points está sintonizado num canal diferente de forma a evita
 * 411,965 metros de cabo CAT6A
 * 10 cabos de fibra
 * 325,572 metros de fibra
-* 50 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
+* 60 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 **Notas**: Toda a cablagem de fibra ótica neste piso refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos, permitir taxas de dados mais altas e especiamlmente comprimentos de cabo mais longos e é também imune à dispersão.
+
+O número de patch cords foi calculado como sendo igual ao número de portas que estão a ser utilizadas em todos os patch panels.
 
 Todas as medidas de cabos realizadas neste piso tiveream em a conta a escala de:
 Cada 2.8 cm medidos, corresponde a 10 m
@@ -159,4 +163,4 @@ Cada 2.8 cm medidos, corresponde a 10 m
   * 2717,68 metros de cabo CAT6A
 * 44 cabos de fibra
   * 1633,144 metros de fibra
-* 436 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
+* 480 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
