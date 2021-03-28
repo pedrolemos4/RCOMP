@@ -52,7 +52,9 @@ Na sala 10.2 como tem 131,575 m², serão necessários 26 outlets que foram dist
 
 Neste espaço, também foram colocados o HC que cobre a área total do piso, com formato de rack de 10'', um patch panel de 12 portas, sendo utilizadas 2 portas para o IC e as restantes para cada CP do piso, com 1U de tamanho, e um switch de 12 portas, com 1U de tamanho.
 Será portanto utilizado um gabinete de 6U.
+
 A área coberta por cada HC deve ser menor que 1000 m². Assim, como as dimensões deste edifício são 40 x 20 metros, apenas é necessário existir um HC por piso que engloba toda a sua área.
+
 Para além do HC, foi instalado um CP devido ao número elevado de outlets, com formato de rack de 19'', um patch panel de 48 portas, sendo utilizadas para cada outlet deste espaço e para os outlets da mesa do espaço 10.3, com 2U de tamanho, e um switch de 48 portas, com 2U de tamanho.
 Será portanto utilizado um gabinete de 12U de tamanho.
 
@@ -60,6 +62,7 @@ Será portanto utilizado um gabinete de 12U de tamanho.
 Na sala 10.3 tal como referia no enunciado foram colocados 5 outlets na mesa que foram distribuídos neste espaço tendo em conta que tem que existir sempre um outlet a menos de três metros de distância.
 
 Para além dos outlets, como podemos observar na imagem acima representada foi instalado um AP no centro deste piso para que exista cobertura WiFi em toda a sua área. 
+
 Para perceber o número de AP a colocar no piso, usamos um raio 25 metros. 
 Como este piso tem as dimensões 40 x 20 metros, um AP por piso chega para assegurar a cobertura WiFi na área do piso.
 
@@ -125,6 +128,7 @@ Será portanto utilizado um gabinete de 6U.
 
 O HC tem um formato de rack de 10'', um patch panel de 12 portas, sendo utilizadas 2 portas para o IC e as restantes para cada CP do piso, com 1U de tamanho e um switch de 12 portas, com 1U de tamanho.
 Será portanto utilizado um gabinete de 6U.
+
 A área coberta por cada HC deve ser menor que 1000 m². Assim, como as dimensões deste edifício são 40 x 20 metros, apenas é necessário existir um HC por piso que engloba toda a sua área.
 
 
@@ -145,6 +149,7 @@ Foi instalado neste espaço um CP devido ao número elevado de outlets, com form
 Será portanto utilizado um gabinete de 12U.
 
 No centro deste piso foi colocado também um AP de forma a garantir a cobertura de WiFi em toda a sua área. 
+
 Para perceber o número de AP a colocar no piso, usamos um raio 25 metros. 
 Como este piso tem as dimensões 40 x 20 metros, um AP por piso chega para assegurar a cobertura WiFi na área do piso.
 

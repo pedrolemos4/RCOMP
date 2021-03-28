@@ -58,7 +58,7 @@ Para além dos outlets, como podemos observar na imagem acima representada foram
 * 7004,26 metros de cabo de cobre CAT6A
 * 20 cabos de fibra
 * 393,94 metros de cabos de fibra
-* 368 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
+* 388 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 # Piso 1 #
 ![Piso1](Piso1.PNG)
@@ -110,7 +110,7 @@ Para além dos outlets, como podemos observar na imagem acima representada foram
 * 566,65 metros de cabo de cobre CAT6A
 * 10 cabos de fibra
 * 94 metros de fibra
-* 68 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
+* 78 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
 
 
 # Inventário Total #
@@ -135,4 +135,11 @@ Para além dos outlets, como podemos observar na imagem acima representada foram
 * 7570,91 metros de cabo de cobre CAT6A
 * 30 cabos de fibra
 * 487,94 metros de cabos de fibra
-* 436 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
+* 466 Patch Cords (ISO8877 connectors (RJ45)) de 3 metros
+
+
+**Notas**: Toda a cablagem de fibra ótica refere-se à cablagem dupla de fibra ótica monomodo de modo a prevenir o sistema contra falhas de cabos.
+
+O número de patch cords foi calculado como sendo igual ao número de portas que estão a ser utilizadas em todos os patch panels.
+
+Os cabos de cobre usados são CAT6A, visto que cobrem sinais de frequência até 500MHz, são capazes de transmitir sinais até 10Gbps. O cabo CAT6A é usado para suportar taxas de dados em 100 metros.
