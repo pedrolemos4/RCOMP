@@ -15,11 +15,14 @@ spanning-tree mode pvst
 spanning-tree extend system-id
 !
 interface FastEthernet7/1
+ switchport mode trunk
 !
 interface FastEthernet8/1
- switchport access vlan 259
+ switchport access vlan 275
+ switchport mode access
 !
 interface FastEthernet9/1
+ switchport mode trunk
 !
 interface Vlan1
  no ip address

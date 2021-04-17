@@ -17,7 +17,7 @@ spanning-tree extend system-id
 interface FastEthernet7/1
 !
 interface FastEthernet8/1
- switchport access vlan 259
+ switchport access vlan 258
 !
 interface FastEthernet9/1
 !
