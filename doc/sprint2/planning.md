@@ -14,7 +14,7 @@ RCOMP 2019-2020 Project - Sprint 2 planning
 
 * Equipment nomenclature: DEVICE_BUILDINGX_FX_XX
     * Example: SWITCH_BUILDING1_F1_01
-* VLANIDs in Building 1: [255-259],  IPv4 network address: 10.124.248.0/24
+* VLANIDs in Building 1: [255-259],  IPv4 network address: 10.124.248.0/23
 * VLANIDs in Building 2: [261-265],  IPv4 network address: 10.124.240.0/23
 * VLANIDs in Building 3: [266-270],  IPv4 network address: 10.124.242.0/23
 * VLANIDs in Building 4: [271-275],  IPv4 network address: 10.124.244.0/23
@@ -22,7 +22,7 @@ RCOMP 2019-2020 Project - Sprint 2 planning
 * VLANID for the campus backbone: 260
 * Packet Tracer: version 8.0.0.0212
 * VTP domain name: rcompdig4
-* Backbone IPv4 network address: 10.124.249.0/25
+* Backbone IPv4 network address: 10.124.250.0/25
 
 # 3. Subtasks assignment #
 
