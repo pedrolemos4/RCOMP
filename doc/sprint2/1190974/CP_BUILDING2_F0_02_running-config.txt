@@ -19,6 +19,8 @@ interface FastEthernet0/1
 interface FastEthernet1/1
  switchport access vlan 261
 !
+interface FastEthernet2/1
+!
 interface Vlan1
  no ip address
  shutdown

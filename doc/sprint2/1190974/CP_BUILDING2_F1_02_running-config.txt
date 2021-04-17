@@ -16,6 +16,9 @@ spanning-tree extend system-id
 !
 interface FastEthernet0/1
 !
+interface FastEthernet1/1
+ switchport mode trunk
+!
 interface Vlan1
  no ip address
  shutdown
