@@ -73,6 +73,10 @@ interface FastEthernet1/0.5
  encapsulation dot1Q 265
  ip address 10.124.241.65 255.255.255.192
 !
+interface FastEthernet1/0.6
+ encapsulation dot1Q 260
+ ip address 10.124.250.2 255.255.255.128
+!
 interface Vlan1
  no ip address
  shutdown
@@ -80,6 +84,10 @@ interface Vlan1
 router rip
 !
 ip classless
+ip route 10.124.248.0 255.255.254.0 10.124.250.1 
+ip route 10.124.242.0 255.255.254.0 10.124.250.3 
+ip route 10.124.244.0 255.255.254.0 10.124.250.4 
+ip route 10.124.246.0 255.255.254.0 10.124.250.5 
 !
 ip flow-export version 9
 !
