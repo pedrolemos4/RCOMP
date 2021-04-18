@@ -1,7 +1,22 @@
-RCOMP 2019-2020 Project - Sprint 2 - Member 3333333 folder
+RCOMP 2019-2020 Project - Sprint 2 - Member 1190974 folder
 ===========================================
-(This folder is to be created/edited by the team member 3333333 only)
 
-#### This is just an example for a team member with number 3333333 ####
-### Each member should create a folder similar to this, matching his/her number. ###
-The owner of this folder (member number 3333333) will commit here all the outcomes (results/artifacts/products)		       of his/her work during sprint 2. This may encompass any kind of standard file types.
+# VLANs Usadas#
+
+| VLANID | Display Nome | Função |
+|:----------:|:----------:|:----------:|
+|261|VLAN_2_GFOutlets|Uma VLAN para todas os outlets no piso 0|
+|262|VLAN_2_F1Outlets|Uma VLAN para todas os outlets no piso 1|
+|263|VLAN_2_WiFiNetwork|Uma VLAN para a rede Wi-Fi (para todas as saídas de pontos de acesso dentro do edifício)|
+|264|VLAN_2_DMZ|Uma VLAN para a DMZ do edificio (para servidores, estações de trabalho de administração e industriais máquinas para os edifícios 3, 4 e 5)|
+|265|VLAN_2_VoIP|Uma VLAN para VoIP (para telefones IP)|
+
+
+
+| VLANID | SubNetID | Host Range | Broadcast|
+|:----------:|:----------:|:----------:|:----------:|
+|261|10.124.241.0|10.124.241.1 -- 10.124.241.62|10.124.241.63|
+|262|10.124.240.128|10.124.240.129 -- 10.124.240.254|10.124.240.255|
+|263|10.124.240.0|10.124.240.1 -- 10.124.240.126|10.124.240.127|
+|264|10.124.241.128|10.124.241.129 -- 10.124.241.142|10.124.241.143|
+|265|10.124.241.64|10.124.241.65 -- 10.124.241.126|10.124.241.127|
