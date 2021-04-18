@@ -1,4 +1,4 @@
-RCOMP 2019-2020 Project - Sprint 2 planning
+RCOMP 2020-2021 Project - Sprint 2 planning
 ===========================================
 ### Sprint master: 1190429 ###
 
