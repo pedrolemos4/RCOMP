@@ -5,7 +5,7 @@ RCOMP 2019-2020 Project - Sprint 2 - Member 1190769 folder
 
 | VLANID | Display Nome | Função |
 |:----------:|:----------:|:----------:|
-|260|VLAN_Backboune|Uma VLAN para a backblone|
+|260|VLAN_Backbone|Uma VLAN para a backbone|
 |271|VLAN_4_GFOutlets|Uma VLAN para todas os outlets no piso 0|
 |272|VLAN_4_F1Outlets|Uma VLAN para todas os outlets no piso 1|
 |273|VLAN_4_WiFiNetwork|Uma VLAN para a rede Wi-Fi (para todas as saídas de pontos de acesso dentro do edifício)|
