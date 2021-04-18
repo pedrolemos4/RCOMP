@@ -73,6 +73,10 @@ interface FastEthernet1/0.5
  encapsulation dot1Q 160
  ip address 10.124.250.1 255.255.255.128
 !
+interface FastEthernet1/0.6
+ encapsulation dot1Q 259
+ ip address 10.124.249.33 255.255.255.224
+!
 interface Vlan1
  no ip address
  shutdown
