@@ -12,7 +12,7 @@ building 1.
 * Update the campus.pkt layer three Packet Tracer simulation from the
 previous sprint, to include the described features in this sprint for
 building 2.
-* Final integration of each memberâ€™s Packet Tracer simulation into a
+* Final integration of each member’s Packet Tracer simulation into a
 single simulation.
 
 ## T.3.3
@@ -39,7 +39,7 @@ Example: 10001
   rcomp-20-21-di-g4
   
 ### Building 1
-  building-1.rcomp-20-21-di-g4
+  rcomp-20-21-di-g4
 ### Building 2
   building-2.rcomp-20-21-di-g4
 ### Building 3
@@ -68,7 +68,7 @@ Example: 10001
 # 3. Subtasks assignment #
 
   * 1190429 - Update the campus.pkt layer three Packet Tracer simulation from the previous sprint, to include the described features in this sprint for building 1.
-  * 1190769 - Update the campus.pkt layer three Packet Tracer simulation from the previous sprint, to include the described features in this sprint for building 2. Final integration of each memberâ€™s Packet Tracer simulation into a single simulation.
+  * 1190769 - Update the campus.pkt layer three Packet Tracer simulation from the previous sprint, to include the described features in this sprint for building 2. Final integration of each member’s Packet Tracer simulation into a single simulation.
   * 1190974  - Update the campus.pkt layer three Packet Tracer simulation from the previous sprint, to include the described features in this sprint for building 3.
   * 1191098  - Update the campus.pkt layer three Packet Tracer simulation from the previous sprint, to include the described features in this sprint for building 4.
   * 1190800  - Update the campus.pkt layer three Packet Tracer simulation from the previous sprint, to include the described features in this sprint for building 5.
