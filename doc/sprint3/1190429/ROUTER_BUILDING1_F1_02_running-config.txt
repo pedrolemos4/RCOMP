@@ -81,26 +81,38 @@ interface FastEthernet1/0
 interface FastEthernet1/0.1
  encapsulation dot1Q 255
  ip address 10.124.248.129 255.255.255.192
+ ip access-group 100 in
+ ip nat inside
 !
 interface FastEthernet1/0.2
  encapsulation dot1Q 257
  ip address 10.124.249.1 255.255.255.224
+ ip access-group 100 in
+ ip nat inside
 !
 interface FastEthernet1/0.3
  encapsulation dot1Q 256
  ip address 10.124.248.193 255.255.255.192
+ ip access-group 100 in
+ ip nat inside
 !
 interface FastEthernet1/0.4
  encapsulation dot1Q 258
  ip address 10.124.248.1 255.255.255.128
+ ip access-group 100 in
+ ip nat inside
 !
 interface FastEthernet1/0.5
  encapsulation dot1Q 259
  ip address 10.124.249.33 255.255.255.224
+ ip access-group 100 in
+ ip nat inside
 !
 interface FastEthernet1/0.6
  encapsulation dot1Q 260
  ip address 10.124.250.1 255.255.255.128
+ ip access-group 105 in
+ ip nat outside
 !
 interface Vlan1
  no ip address
@@ -116,17 +128,26 @@ router rip
 ip nat inside source static tcp 10.124.248.3 80 10.124.250.1 80 
 ip nat inside source static tcp 10.124.248.3 443 10.124.250.1 443 
 ip nat inside source static tcp 10.124.248.2 53 10.124.250.1 53 
-ip nat inside source static udp 10.124.248.3 53 10.124.250.1 53 
+ip nat inside source static udp 10.124.248.2 53 10.124.250.1 53 
 ip classless
-ip route 10.124.240.0 255.255.254.0 10.124.250.2 
-ip route 10.124.242.0 255.255.254.0 10.124.250.3 
-ip route 10.124.244.0 255.255.254.0 10.124.250.4 
-ip route 10.124.246.0 255.255.254.0 10.124.250.5 
-ip route 0.0.0.0 0.0.0.0 10.124.250.6 
 !
 ip flow-export version 9
 !
 !
+access-list 100 permit icmp 10.124.248.0 0.0.1.255 any echo
+access-list 100 permit icmp 10.124.248.0 0.0.1.255 any echo-reply
+access-list 100 permit ip 10.124.248.0 0.0.0.127 any
+access-list 100 permit ip host 0.0.0.0 any
+access-list 100 permit ip host 255.255.255.255 any
+access-list 100 permit ip 10.124.248.0 0.0.1.255 any
+access-list 105 permit icmp any 10.124.248.0 0.0.1.255 echo
+access-list 105 permit icmp any 10.124.248.0 0.0.1.255 echo-reply
+access-list 105 permit tcp any host 10.124.248.3 eq www
+access-list 105 permit tcp any host 10.124.248.3 eq 443
+access-list 105 permit udp any host 10.124.248.2 eq domain
+access-list 105 deny ip any 10.124.248.0 0.0.0.127
+access-list 105 permit ip any any
+access-list 105 deny ip 10.124.248.0 0.0.1.255 any
 !
 !
 !
