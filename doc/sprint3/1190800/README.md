@@ -1,35 +1,21 @@
 RCOMP 2019-2020 Project - Sprint 2 - Member 1190800 folder
 ===========================================
 
-## VLANs
+## VOIP
+Implemented and tested
 
-| VLANID | Display Nome | Number of Nodes | Network |
-|:----------:|:----------:|:----------:|:----------:|
-|276|VLAN_5_GFOutlets| 40 |10.124.247.0/26|
-|277|VLAN_5_F1Outlets|45|10.124.247.64/26
-|278|VLAN_5_WIFINETWORK|60|10.124.247.128/26
-|279|VLAN_5_DMZ|250|10.124.246.0/24
-|280|VLAN_5_VOIP|40|10.124.247.192/24
+## DNS 
+### Servers
+DNS Server : SERVER_BUILDING5_F1_01
 
----
-## Router
-| VLANID | SubInterface | IP Address | Mask |
-|:----------:|:----------:|:----------:|:----------:|
-|276|Fast Ethernet 0/0.1|10.124.247.10| 255.255.255.192|
-|277|Fast Ethernet 0/0.2|10.124.247.70|255.255.255.192|
-|278|Fast Ethernet 0/0.3|10.124.247.129|255.255.255.192|
-|279|Fast Ethernet 0/0.4|10.124.246.1|255.255.255.0
-|280|Fast Ethernet 0/0.5|10.124.247.193|255.255.255.192
-|260|Fast Ethernet 0/0.6|10.124.250.4|255.255.255.128
+![DNS_SCREENSHOT](DNS_SCREENSHOT.PNG)
 
----
+HTTP Server : SERVER_BUILDING5_F0_01
 
-## Rounting Table
+![HTTP_SCREENSHOT](HTTP_SCREENSHOT.PNG)
 
-10.124.248.0/23 via 10.124.250.1	
+## NAT
+Implemented
 
-10.124.240.0/23 via 10.124.250.2
-
-10.124.242.0/23 via 10.124.250.3
-
-10.124.244.0/23 via 10.124.250.4
+## FireWall
+Implemented but not tested. Access list were created to ensure the required specifications.
