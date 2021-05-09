@@ -3,7 +3,7 @@ RCOMP 2019-2020 Project - Sprint 2 - Member 1190800 folder
 
 ## VOIP
 Implemented and tested
-
+![VOIP_SCREENSHOT](VOIP_SCREENSHOT.PNG)
 ## DNS 
 ### Servers
 DNS Server : SERVER_BUILDING5_F1_01
