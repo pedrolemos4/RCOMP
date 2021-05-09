@@ -4,7 +4,7 @@ no service timestamps log datetime msec
 no service timestamps debug datetime msec
 no service password-encryption
 !
-hostname SWITCH_BUILDING5_F0_03
+hostname SWITCH_BUILDING5_F0_01
 !
 !
 !
@@ -15,22 +15,24 @@ spanning-tree mode pvst
 spanning-tree extend system-id
 !
 interface FastEthernet0/1
- switchport mode trunk
 !
 interface FastEthernet1/1
- switchport mode trunk
 !
 interface FastEthernet2/1
- switchport mode trunk
+ switchport access vlan 278
 !
 interface FastEthernet3/1
- switchport mode trunk
+ switchport access vlan 278
+ switchport mode access
 !
 interface FastEthernet4/1
- switchport mode trunk
+ switchport access vlan 279
 !
 interface FastEthernet5/1
- switchport mode trunk
+ switchport mode access
+ switchport voice vlan 280
+!
+interface FastEthernet6/1
 !
 interface Vlan1
  no ip address
